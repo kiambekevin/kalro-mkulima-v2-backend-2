@@ -1,0 +1,6 @@
+[
+  { "model": "counties.ward",
+    "fields": { "id": "9a3c5e1b-...", "sub_county": "8f2b7c3d-...", "name": "Biashara", "code": "" } },
+  { "model": "counties.ward",
+    "fields": { "id": "9a3c5e1b-...", "sub_county": "8f2b7c3d-...", "name": "Kivumbini", "code": "" } }
+]

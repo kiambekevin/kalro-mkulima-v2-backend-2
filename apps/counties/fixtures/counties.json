@@ -1,0 +1,18 @@
+[
+  { "model": "counties.county", "pk": "7b1c4e2a-9f0d-4a8b-9c8d-8e2f5b3a1c11",
+    "fields": { "code": "001", "name": "Mombasa",      "region": "Coast",        "capital": "Mombasa",      "population_2019": 1208333, "area_km2": "212.5",  "slug": "mombasa" } },
+  { "model": "counties.county", "pk": "7b1c4e2a-9f0d-4a8b-9c8d-8e2f5b3a1c12",
+    "fields": { "code": "002", "name": "Kwale",        "region": "Coast",        "capital": "Kwale",        "population_2019": 866820,  "area_km2": "8270.3", "slug": "kwale" } },
+  { "model": "counties.county", "pk": "7b1c4e2a-9f0d-4a8b-9c8d-8e2f5b3a1c13",
+    "fields": { "code": "003", "name": "Kilifi",       "region": "Coast",        "capital": "Kilifi",       "population_2019": 1453787, "area_km2": "12245.9","slug": "kilifi" } },
+  { "model": "counties.county", "pk": "7b1c4e2a-9f0d-4a8b-9c8d-8e2f5b3a1c14",
+    "fields": { "code": "004", "name": "Tana River",   "region": "Coast",        "capital": "Hola",         "population_2019": 315943,  "area_km2": "35375.8","slug": "tana-river" } },
+  { "model": "counties.county", "pk": "7b1c4e2a-9f0d-4a8b-9c8d-8e2f5b3a1c15",
+    "fields": { "code": "005", "name": "Lamu",         "region": "Coast",        "capital": "Lamu",         "population_2019": 143920,  "area_km2": "6497.7", "slug": "lamu" } },
+  { "model": "counties.county", "pk": "7b1c4e2a-9f0d-4a8b-9c8d-8e2f5b3a1c16",
+    "fields": { "code": "006", "name": "Taita Taveta", "region": "Coast",        "capital": "Voi",          "population_2019": 340671,  "area_km2": "17083.9","slug": "taita-taveta" } },
+  { "model": "counties.county", "pk": "7b1c4e2a-9f0d-4a8b-9c8d-8e2f5b3a1c17",
+    "fields": { "code": "032", "name": "Nakuru",       "region": "Rift Valley",  "capital": "Nakuru",       "population_2019": 2162202, "area_km2": "7509.5", "slug": "nakuru" } },
+  { "model": "counties.county", "pk": "7b1c4e2a-9f0d-4a8b-9c8d-8e2f5b3a1c18",
+    "fields": { "code": "047", "name": "Nairobi",      "region": "Nairobi",      "capital": "Nairobi",      "population_2019": 4397073, "area_km2": "696.1",  "slug": "nairobi" } }
+]

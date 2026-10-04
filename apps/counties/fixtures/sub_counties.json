@@ -1,0 +1,6 @@
+[
+  { "model": "counties.subcounty",
+    "fields": { "id": "8f2b7c3d-...", "county": "7b1c4e2a-9f0d-4a8b-9c8d-8e2f5b3a1c17", "name": "Nakuru East", "code": "" } },
+  { "model": "counties.subcounty",
+    "fields": { "id": "8f2b7c3d-...", "county": "7b1c4e2a-9f0d-4a8b-9c8d-8e2f5b3a1c17", "name": "Nakuru West", "code": "" } }
+]
